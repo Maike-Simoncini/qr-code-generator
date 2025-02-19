@@ -32,7 +32,7 @@ Este projeto oferece uma interface simples e intuitiva para a criação de códi
 
 ### 🔗 Link para o Projeto
 
-👉 [Ver Projeto ao Vivo](https://maike-simoncini.github.io/Gerador-de-Codigo-QR/) 👈
+👉 [Ver Projeto ao Vivo](https://maike-simoncini.github.io/qr-code-generator/) 👈
 
 ### 📄 Licença
 
