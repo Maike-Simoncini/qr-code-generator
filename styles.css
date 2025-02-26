@@ -1,4 +1,3 @@
-/* Estilização geral */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -13,8 +12,8 @@ body {
 
 .container {
     text-align: center;
-    width: 100%; /* Ocupa toda a largura disponível */
-    max-width: 500px; /* Largura máxima do contêiner */
+    width: 100%;
+    max-width: 500px;
 }
 
 h1 {
@@ -24,13 +23,13 @@ h1 {
 
 input {
     padding: 10px;
-    width: 100%; /* Ajusta a largura para ocupar todo o contêiner */
-    max-width: 400px; /* Define uma largura máxima para a caixa de texto */
+    width: 100%;
+    max-width: 400px;
     font-size: 16px;
     margin-bottom: 20px;
     border: 2px solid #ccc;
     border-radius: 5px;
-    box-sizing: border-box; /* Garante que o padding e a borda sejam incluídos no cálculo da largura */
+    box-sizing: border-box;
 }
 
 button {
@@ -52,7 +51,7 @@ button:hover {
 }
 
 footer {
-    margin-top: 30px; /* Espaço entre o conteúdo principal e o rodapé */
+    margin-top: 30px;
     font-size: 14px;
     color: #333;
     text-align: center;
