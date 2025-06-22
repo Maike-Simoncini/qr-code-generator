@@ -58,10 +58,12 @@ footer {
 }
 
 footer a {
-    color: #007bff;
+    color: #22D4FD;
     text-decoration: none;
+    transition: all 0.3s ease;
 }
 
 footer a:hover {
     text-decoration: underline;
+    color: #19a7c2;
 }
