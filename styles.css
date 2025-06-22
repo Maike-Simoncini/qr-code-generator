@@ -36,14 +36,14 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     color: #fff;
-    background-color: #22D4FD;
+    background-color: #28a745;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #19a7c2;
+    background-color: #218838;
 }
 
 #qrcode {
@@ -58,12 +58,12 @@ footer {
 }
 
 footer a {
-    color: #22D4FD;
+    color: #28a745; /* Verde igual ao botão */
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: all 0.3s ease; /* Opcional: transição suave */
 }
 
 footer a:hover {
     text-decoration: underline;
-    color: #19a7c2;
+    color: #218838; /* Mesma cor do hover do botão */
 }
